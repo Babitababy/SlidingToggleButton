@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector
     xmlns:android="http://schemas.android.com/apk/res/android">
-   <!--first of all we are going to create an item where we will
+   <!--first of all we are going to create thumb item where we will
    keep android-checked="true"-->
     <item
         android:state_checked="true">
@@ -14,7 +14,7 @@
                 />
         </shape>
     </item>
-    <!--we are going to create second item where we will
+    <!--we are going to create thumb item where we will
        keep android-checked="false"-->
     <item
         android:state_checked="false">
